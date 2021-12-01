@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 this is the first commit test line
 this is the second commit test line
 this is the third commit test line
+=======
+this is the first commit test line
+>>>>>>> parent of 3f9e6d9... second commit test
